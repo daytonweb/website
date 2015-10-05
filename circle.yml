@@ -1,0 +1,13 @@
+machine:
+  node:
+    version: 0.12.0
+
+test:
+  override:
+    - NODE_ENV=production npm run build
+
+deployment:
+  staging:
+    branch: master
+    commands:
+      - npm run deploy
