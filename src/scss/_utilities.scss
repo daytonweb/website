@@ -1,0 +1,11 @@
+/*
+ * Utility classes are conveniences for adding a single, commonly used behavior to an element
+ */
+
+// Scott Kellum Method for hiding text
+%u-hide-text {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
