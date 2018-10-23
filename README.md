@@ -2,6 +2,10 @@
 
 A static site builder for the Dayton Web Developers website.
 
+10/23/2018 - UPDATE  
+This content needs re-written. There has not been any effort to move forward with this project.  
+
+
 ## Installation
 
 - Requires node/npm ([installation instruction](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager))
